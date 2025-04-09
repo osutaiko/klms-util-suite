@@ -9,4 +9,5 @@ A userscript suite of useful features for KAIST KLMS
 ## Features
 - Auto-extend session: Automatically extends login session (every 30 minutes) to prevent automatic logout.
 - Color scheme customizer: Customize the site's color scheme. (I hate the color blue)
-- ID/Name hider: Hides your name and student ID from the interface for privacy.
+- Name/ID hider: Hides your name and student ID from the interface for privacy.
+- PDF preview buttons: Add preview buttons to PDF links to view them without downloading.
